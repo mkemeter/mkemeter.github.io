@@ -6,7 +6,7 @@ description: Digital Hub
 theme: cvless
 
 # site settings
-# taglong: Jekyll theme for a beautiful online CV
+taglong: Software Development Manager @ SAP
 # tagshort: Jekyll theme
 
 # author settings
@@ -22,7 +22,7 @@ social:
   # facebook: username
   github: mkemeter
   # instagram: username
-  linkedin: mkemeter
+  linkedin: mathiaskemeter
   stackoverflow: 16739843/mathias-kemeter
   # x: username
 

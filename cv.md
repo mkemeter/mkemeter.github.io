@@ -4,12 +4,12 @@ title: CV
 ---
 
 # Curriculum Vitæ
-
+---
 Mathias is a seasoned IT professional with a strong mathematical background. He started his career as a software developer for mathematical optimization solutions and subsequently moved into customer-facing data science roles incorporating optimization, predictive analytics, machine learning, and artificial intelligence. He has built up thorough leadership skills as a development manager and backed up his experience with successfully earning an MBA degree with focus and Intelligent Enterprise Management.
 
 ## Professional Experience
 ---
-### Software Development Manager @ SAP SE
+### Development Manager @ SAP SE
 *since 2019*
 
 - Responsible for multi-model database engines of SAP HANA Cloud
@@ -18,7 +18,7 @@ Mathias is a seasoned IT professional with a strong mathematical background. He 
 - Defining product roadmap and safeguarding agile development process
 - Customer, partner and stakeholder management
 
-### Data Science Consultant @ SAP SE
+### Data Scientist @ SAP SE
 *2014 - 2019*
 
 - Leading agile development teams towards crafting customer-specific data

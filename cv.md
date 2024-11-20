@@ -5,7 +5,7 @@ title: CV
 
 # Curriculum Vitæ
 
-{% include contact.html %}
+# {% include contact.html %}
 
 ## Professional Experience
 

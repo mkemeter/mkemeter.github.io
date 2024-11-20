@@ -5,7 +5,7 @@ title: Home
 
 # About
 
-Howdy! My name is Mathias and this page acts as my digital hub connecting business-related social profiles and digital assets. 
+Howdy! My name is Mathias and this page acts as my digital hub connecting business-related social profiles, publications, and digital assets. 
 
 For requests or direct messaging, feel free to reach out via LinkedIn!  
 

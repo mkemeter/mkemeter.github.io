@@ -1,6 +1,6 @@
 ---
 layout: post
-title: AWS Summit Berlin 2024
+title: AWS Summit Berlin
 lead: Use your SAP HANA Cloud stored data to build solutions on AWS (BIZ301)
 ---
 

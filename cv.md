@@ -5,10 +5,10 @@ title: CV
 
 # Curriculum Vitæ
 
-## Professional Experience
-
 Mathias is a seasoned IT professional with a strong mathematical background. He started his career as a software developer for mathematical optimization solutions and subsequently moved into customer-facing data science roles incorporating optimization, predictive analytics, machine learning, and artificial intelligence. He has built up thorough leadership skills as a development manager and backed up his experience with successfully earning an MBA degree with focus and Intelligent Enterprise Management.
 
+## Professional Experience
+---
 ### Software Development Manager @ SAP SE
 *since 2019*
 
@@ -48,7 +48,7 @@ measurement series
 - Gained high-level industry knowledge in steel manufacturing
 
 ## Education
-
+---
 ### Part-time MBA @ University of Applied Science Kaiserslautern
 *2022 - 2024*
 

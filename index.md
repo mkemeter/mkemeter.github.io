@@ -5,6 +5,8 @@ title: Home
 
 # About
 
-Mathias studied Mathematics and afterwards worked as an Optimization Expert and Data Scientist. Today, he is leading the development of the SAP HANA's Multi-model Engines (i.e. Vector, Graph, Spatial & Document Store).
+Howdy! My name is Mathias and this page acts as my digital hub connecting business-related social profiles and digital assets. 
+
+For requests or direct messaging, feel free to reach out via LinkedIn!  
 
 {% include archive.html %}

@@ -1,6 +1,6 @@
 ---
 layout: post
-title: \[Video\] SAP Devtoberfest
+title: (Video) SAP Devtoberfest
 lead: SAP HANA Cloud - processing semi-structured data using the JSON Document Store
 ---
 

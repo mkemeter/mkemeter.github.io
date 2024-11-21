@@ -1,6 +1,6 @@
 ---
 layout: post
-title: \[Video\] SAP TechEd
+title: (Video) SAP TechEd
 lead: Embedded Location Analytics and the Power of Geospatial Data
 ---
 

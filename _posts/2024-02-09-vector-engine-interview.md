@@ -1,6 +1,6 @@
 ---
 layout: post
-title: [Video] Interview
+title: \[Video\] Interview
 lead: Developer's take on SAP HANA Cloud Vector Engine
 ---
 

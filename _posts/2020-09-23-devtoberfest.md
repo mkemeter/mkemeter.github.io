@@ -1,6 +1,6 @@
 ---
 layout: post
-title: [Video] SAP Devtoberfest
+title: \[Video\] SAP Devtoberfest
 lead: Video series on SAP HANA Spatial
 ---
 

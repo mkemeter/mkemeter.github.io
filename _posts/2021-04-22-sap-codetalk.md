@@ -1,6 +1,6 @@
 ---
 layout: post
-title: [Video] SAP CodeTalk
+title: \[Video\] SAP CodeTalk
 lead: The Geospatial capabilities of SAP HANA Cloud
 ---
 

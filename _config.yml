@@ -1,6 +1,6 @@
 title: Mathias Kemeter
 description: Digital Hub
-#baseurl: ""
+baseurl: "https://mkemeter.github.io"
 url: https://mkemeter.github.io
 
 theme: cvless

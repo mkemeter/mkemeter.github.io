@@ -55,7 +55,7 @@ measurement series
 - Academic Degree: Master of Business Administration (MBA)
 - Program: Intelligent Enterprise Management
 - Grade: 1.5 (German scale)
-- Master’s Thesis: [An Agile Collaboration Framework for Project-based Software Development](assets/files/2024-Kemeter-Masters-Thesis.pdf)
+- Master’s Thesis: [An Agile Collaboration Framework for Project-based Software Development](/assets/files/2024-Kemeter-Masters-Thesis.pdf)
 
 ### Diploma Studies @ Johannes Gutenberg-University Mainz
 *2003 - 2009*
@@ -63,5 +63,5 @@ measurement series
 - Academic Degree: Diplom-Mathematiker
 - Major: Mathematics, Minor: Computer Science
 - Grade: Very Good
-- Diploma Thesis: [Effizientes Alignment von Stahlband-Fingerprints](assets/files/2008-Kemeter-Diplomarbeit.pdf)
+- Diploma Thesis: [Effizientes Alignment von Stahlband-Fingerprints](/assets/files/2008-Kemeter-Diplomarbeit.pdf)
 - Co-authored paper at DEXA'09: Alignment of Noisy and Uniformly Scaled Time Series

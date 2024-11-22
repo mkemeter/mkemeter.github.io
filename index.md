@@ -7,6 +7,8 @@ title: Home
 
 Howdy! My name is Mathias and this page acts as my digital hub connecting business-related social profiles, publications, and digital assets. 
 
-For requests or direct messaging, feel free to reach out via LinkedIn!  
+For requests or direct messaging, feel free to reach out via <a href='https://www.linkedin.com/in/mathiaskemeter'>LinkedIn</a> or other channels!
+
+---
 
 {% include archive.html %}

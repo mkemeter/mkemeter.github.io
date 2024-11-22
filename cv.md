@@ -64,4 +64,4 @@ measurement series
 - Major: Mathematics, Minor: Computer Science
 - Grade: Very Good
 - Diploma Thesis: [Effizientes Alignment von Stahlband-Fingerprints](/assets/files/2008-Kemeter-Diplomarbeit.pdf)
-- Co-authored paper at DEXA'09: Alignment of Noisy and Uniformly Scaled Time Series
+- Co-authored paper at DEXA'09: [Alignment of Noisy and Uniformly Scaled Time Series](https://www.researchgate.net/publication/221464737_Alignment_of_Noisy_and_Uniformly_Scaled_Time_Series)

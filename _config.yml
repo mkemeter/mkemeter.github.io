@@ -30,6 +30,18 @@ social:
 # build settings
 permalink: pretty
 exclude:
-  - docker-compose.yml
   - LICENSE
   - README.md
+  - Gemfile
+  - vendor/
+  - docker-compose.yml
+
+plugins:
+  - jekyll-feed
+  - jekyll-gist
+  - jekyll-paginate-v2
+  - jekyll-seo-tag
+  - jekyll-sitemap
+
+sass:
+  sourcemap: never

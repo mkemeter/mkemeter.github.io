@@ -20,9 +20,13 @@ photo: assets/files/photo.jpg
 # social media links
 social:
   # facebook: username
-  github: mkemeter
-  # instagram: username
+  bluesky:
+    user: kemeter
+    domain: rocks
   linkedin: mathiaskemeter
+  xing: Mathias_Kemeter
+  # instagram: username
+  github: mkemeter
   stackoverflow: 16739843/mathias-kemeter
   medium: mkemeter
   # x: username

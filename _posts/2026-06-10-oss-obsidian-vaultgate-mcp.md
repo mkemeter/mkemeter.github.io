@@ -1,7 +1,7 @@
 ---
 layout: post
 title: (Open Source) VaultGate — Obsidian MCP Server
-lead: A local Model Context Protocol server that bridges any MCP-compatible AI client with your Obsidian vault — privately, with no plugins, and with explicit write consent on every change.
+lead: Local MCP server that bridges any AI assistant to your Obsidian vault — privately, with no plugins.
 ---
 
 <a href='https://github.com/mkemeter/obsidian-vaultgate-mcp'>

@@ -1,7 +1,7 @@
 ---
 layout: post
 title: (Patent) Data Type Handling for Semi-Structured Data in a Hybrid Relational and Schema-Flexible Database
-lead: A system for document collection creation with semi-structured data types, enabling retrieval and filtering across relational and schema-flexible stores while preserving the native data type of individual entities. US Patent 12,769,788 B2.
+lead: Per-entity data type preservation when querying across hybrid relational and document collections. US Patent 12,769,788 B2.
 ---
 
 <a href='https://patents.google.com/patent/US12769788B2'>

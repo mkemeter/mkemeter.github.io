@@ -1,0 +1,8 @@
+html,
+html[data-theme="light"] {
+  --color-link: #8B5CF6;
+}
+
+html[data-theme="dark"] {
+  --color-link: #A78BFA;
+}

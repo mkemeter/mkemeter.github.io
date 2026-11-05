@@ -1,0 +1,13 @@
+:root {
+  --color-particles-text: var(--oc-gray-1);
+  --color-particles-background: var(--oc-gray-9);
+}
+
+html,
+html[data-theme="light"] {
+  --color-link: #8B5CF6;
+}
+
+html[data-theme="dark"] {
+  --color-link: #A78BFA;
+}

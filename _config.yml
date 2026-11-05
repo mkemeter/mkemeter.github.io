@@ -6,30 +6,33 @@ url: https://mkemeter.github.io
 theme: cvless
 
 # site settings
-taglong: Software Development Manager @ SAP
-tagshort: Software Development Manager
+taglong: Software Engineering Manager @ SAP
+tagshort: Software Engineering Manager
 
 # author settings
 author:
   name: Mathias Kemeter
   # email: username@domain.com
 photo: assets/files/photo.jpg
+joblines:
+  - SAP SE
+  - Head of RIG Business AI EMEA/MEE
+  - Walldorf, Germany
 # address: Foobar Hall 1.23
 # phone: +1 234 567 890
 
-# social media links
-social:
-  # facebook: username
-  bluesky:
-    user: kemeter
-    domain: rocks
-  linkedin: mathiaskemeter
-  xing: Mathias_Kemeter
-  # instagram: username
-  github: mkemeter
-  stackoverflow: 16739843/mathias-kemeter
-  medium: mkemeter
-  # x: username
+# profile links
+profile:
+  # facebook: https://www.facebook.com/username
+  bluesky: https://bsky.app/profile/kemeter.me
+  linkedin: https://www.linkedin.com/in/mathiaskemeter
+  # xing: https://www.xing.com/profile/Mathias_Kemeter
+  # instagram: https://www.instagram.com/username
+  github: https://github.com/mkemeter
+  # stackoverflow: https://stackoverflow.com/users/16739843/mathias-kemeter
+  # medium: https://medium.com/@mkemeter
+  # x: https://x.com/username
+  cv: true
 
 # build settings
 permalink: pretty
